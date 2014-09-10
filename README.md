@@ -1,7 +1,7 @@
-Radio Astronomy Telescope
-============================
+Triple-Z Radio Astronomy Telescope
+==================================
 
-ZZZ Industries in cooperation with MunSeeker Artisanal Devices
+ZZZ in cooperation with MunSeeker Artisanal Devices
 
 A new type of large radio telescope that can be packed into a small volume and deployed at remote locations. Contains a small SAS for stability control. 
 
