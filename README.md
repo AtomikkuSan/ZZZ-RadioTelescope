@@ -12,4 +12,6 @@ http://imgur.com/a/YPvog#4
 
 The model and texturing is from the always excellent zzz originally as part of a microwave receiver, the part.cfg for the radio telescope is from Munseeker. zzz released his model into the public domain and graciously gave me written permission to use as part of this mod.
 
+The great science experiment code for the telescope has been provided by Angel-125.
+
 This project is licensed non-commercial share-alike with attribution.
