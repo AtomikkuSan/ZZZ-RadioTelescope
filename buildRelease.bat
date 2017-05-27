@@ -22,13 +22,12 @@ del tmpfile
 set VERSION=%major%.%minor%.%patch%
 if "%build%" NEQ "0"  set VERSION=%VERSION%.%build%
 
-type AllYAll.version
-
 echo Version:  %VERSION%
 
 copy /y License.txt  GameData\MunSeeker\ZZZ_RadioTelescope
 
 copy /Y README.md GameData\MunSeeker\ZZZ_RadioTelescope
+copy /Y ZZZRadioTelescope.version GameData\MunSeeker\ZZZ_RadioTelescope
  
 
 set FILE="%RELEASEDIR%\ZZZRadioTelescope-%VERSION%.zip"
