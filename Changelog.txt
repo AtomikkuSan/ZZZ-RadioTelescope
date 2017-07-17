@@ -1,3 +1,7 @@
+1.0.1
+	Fixed electrical usage of reaction wheels to be more in line with stock
+	Updated description
 
-Fixed electrical usage of reaction wheels to be more in line with stock
-Updated description
+1.0.2
+    Add Support for Kopernicus, Kopernicus overwrites solar panel modules so without these the contracts will not activate.
+	Changed URL for .version check to github
