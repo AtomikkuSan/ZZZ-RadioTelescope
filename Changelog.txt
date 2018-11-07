@@ -8,3 +8,6 @@
 
 1.0.2.1
 	Updated version info for 1.4.1
+	
+1.0.2.2
+	Version bump for 1.5
