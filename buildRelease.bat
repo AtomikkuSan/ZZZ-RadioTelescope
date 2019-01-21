@@ -27,7 +27,7 @@ echo Version:  %VERSION%
 copy /y License.txt  GameData\MunSeeker\ZZZ_RadioTelescope
 
 copy /Y README.md GameData\MunSeeker\ZZZ_RadioTelescope
-copy /Y ZZZRadioTelescope.version GameData\MunSeeker\ZZZ_RadioTelescope
+copy /Y ZZZRadioTelescope.version GameData\MunSeeker
  
 
 set FILE="%RELEASEDIR%\ZZZRadioTelescope-%VERSION%.zip"

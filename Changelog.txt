@@ -15,3 +15,6 @@
 
 1.0.3
 	Added bulkhead profile for srf & size2
+
+1.0.3.1
+	Removed extra .version file
