@@ -21,3 +21,6 @@
     
 1.0.5
     Fixed contracts.  Now requires SpaceTuxSA to be installed for the contracts to work
+
+1.0.5.1
+	Added tags
